@@ -1,4 +1,4 @@
-# Nexus UI
+# Simple Login Page
 
 <h4>Fully responsive login page  👌</h4>  
 
